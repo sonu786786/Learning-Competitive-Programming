@@ -1,0 +1,47 @@
+# Ignore all files in the build directory
+/build/
+
+# Ignore all object files
+*.o
+*.obj
+
+# Ignore all executables
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+
+# Ignore all pdb files
+*.pdb
+
+# Ignore all code coverage data files
+*.gcda
+*.gcno
+*.gcov
+
+# Ignore all generated files
+*.class
+*.pyc
+*.pyo
+*.log
+
+# Ignore all temp files
+*.tmp
+*.temp
+
+# Ignore all files in the .vscode directory
+.vscode/
+
+# Ignore all files in the .idea directory (IntelliJ IDEA)
+.idea/
+
+# Ignore all files in the .vs directory (Visual Studio)
+.vs/
+
+# Ignore all files in the .sln and .vcxproj directories (Visual Studio)
+*.sln
+*.vcxproj
+
+# Ignore all files in the .git  directory
+.git/
